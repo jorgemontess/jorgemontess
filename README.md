@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋-->
-<h1 align="left">
-    I'm Jorge Montes
-</h1>
+<h3>Hol</h3>
+I'm Jorge Montes
+
 
 <h3 align="left">
     A friendly software developer from Colombia 🇨🇴
