@@ -1,12 +1,9 @@
 <!-- ### Hi there 👋-->
 <h3>Io! I'm Jorge Montes</h2>
 
-<h3 align="left">
-    I am a software developer from Colombia 🇨🇴
-</h3>
-
 <div align="left">
- 
+ I am a software developer who love Backend and Machine Learning stuff, I enjoy coding and having fun making projects with friends 🇨🇴
+    
  I’m currently looking for a **job**.
  
  I’m currently learning **Golang, Machine Learning, Docker**
