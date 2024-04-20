@@ -4,25 +4,24 @@
 </h1>
 <br/>
 
-<h3 align="center">
+<h3 align="left">
     A friendly software developer from Colombia 🇨🇴
 </h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
- 🔭 I’m currently looking for a **job**.
+ I’m currently looking for a **job**.
  
- 🌱 I’m currently learning **Golang, Machine Learning, Docker**
+ I’m currently learning **Golang, Machine Learning, Docker**
 
- ⚡ Fun fact **The Kamehameha can be translated as "Turtle Shock Wave"**
+ Fun fact **The Kamehameha can be translated as "Turtle Shock Wave"**
 
  </div>
  
 
 <br/>
-<hr/>
  
 <h2 align="center">Languages and Tools</h2>
 <br/>
