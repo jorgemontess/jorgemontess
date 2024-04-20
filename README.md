@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋-->
-<h3>Io! I'm Jorge Montes</h23
+<h3>Io! I'm Jorge Montes</h2>
 
 <h3 align="left">
     I am a software developer from Colombia 🇨🇴
