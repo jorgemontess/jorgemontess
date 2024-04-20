@@ -5,7 +5,7 @@
 <br/>
 
 <h3 align="center">
-    A passionate software developer from Colombia 🇨🇦
+    A friendly software developer from Colombia 🇨🇴
 </h3>
 
 <br/>
