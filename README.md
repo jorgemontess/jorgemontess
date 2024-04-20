@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋-->
-<h1 align="leftr">
+<h1 align="left">
     I'm Jorge Montes
 </h1>
 
