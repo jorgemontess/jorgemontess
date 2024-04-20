@@ -1,13 +1,9 @@
 <!-- ### Hi there 👋-->
-<h2>I'm Jorge Montes</h2>
-
-
+<h3>Io! I'm Jorge Montes</h23
 
 <h3 align="left">
-    A friendly software developer from Colombia 🇨🇴
+    I am a software developer from Colombia 🇨🇴
 </h3>
-
-<br/>
 
 <div align="left">
  
