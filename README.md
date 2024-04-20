@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋-->
-<h3>I'm Jorge Montes</h3>
+<h2>I'm Jorge Montes</h2>
 
 
 
