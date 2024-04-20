@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Golang, Machine Learning, Docker**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The Kamehameha can be translated as "Turtle Shock Wave"**
 
  </div>
  
