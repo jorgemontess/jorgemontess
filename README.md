@@ -5,8 +5,11 @@
 <h1 align="center">
     Hi there, I'm Jorge Montes 👋
 </h1>
+<br/>
 
-<h3 align="center">A passionate software developer from Colombia 🇨🇦</h3>
+<h3 align="center">
+    A passionate software developer from Colombia 🇨🇦
+</h3>
 
 <br/>
 
@@ -21,13 +24,14 @@
  </div>
  
 
-
- <hr/>
+<br/>
+<hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,java" />
+    <br />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,mysql" /><br>
 </div>
 
@@ -35,7 +39,7 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats</h2>
 <br>
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
