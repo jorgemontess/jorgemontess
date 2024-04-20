@@ -17,9 +17,9 @@
 
 <br/>
  
-<h3 align="center">Technologies</h3>
+<h3>Technologies</h3>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,java,go" />
     <br />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,mysql,neovim" /><br>
