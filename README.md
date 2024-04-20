@@ -3,7 +3,7 @@
 
 <div align="left">
  
- I am a software developer who love Backend and Machine Learning stuff, I enjoy coding and having fun making projects with friends.
+ I am a software developer who love Backend and Machine Learning stuff, I enjoy coding and having fun making projects with friends!. 🤖
  
 
  I’m currently looking for a **job**.
@@ -17,7 +17,7 @@
 
 <br/>
  
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Technologies</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,java,go" />
