@@ -1,9 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    ### Hi there 👋
+    Hi there, I'm Jorge Montes 👋
 </h1>
 
 <h3 align="center">A passionate software developer from Colombia 🇨🇦</h3>
