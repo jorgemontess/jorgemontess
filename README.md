@@ -8,9 +8,7 @@
 
  I’m currently looking for a **job**.
  
- I’m currently learning **Golang, Machine Learning, Docker**
-
- Fun fact **The Kamehameha can be translated as "Turtle Shock Wave"**
+ I’m interested in **Golang, Typescript, Machine Learning, Docker**
 
  </div>
  
