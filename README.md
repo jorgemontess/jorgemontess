@@ -1,41 +1,25 @@
-<!-- ### Hi there 👋-->
-<h3>Hi! I'm Jorge Montes</h3>
+<h3>Hi! I'm Jorge Montes 👋</h3>
 
 <div align="left">
- 
- I am a software developer who love DevOps and Infrastructure, I value speed and automation as tools to simplify complexity, free up time, and help teams move faster with confidence...
- 
 
- I’m currently looking for a **job**.
- 
- I’m interested in **Golang, Kubernetes, Scrum, Docker, Pipelines (CI/CD)**
+I'm a **DevOps-driven software developer** who loves building reliable infrastructure and simplifying systems through automation.  
+I value **speed and clarity** — not just to move fast, but to help teams focus on what really matters.
 
- </div>
- 
+Currently, I’m open to **new opportunities** where I can contribute with my passion for **Golang, Kubernetes, Docker, CI/CD pipelines**, and modern DevOps culture.
 
-<br/>
- 
-<h3>Technologies</h3>
-<br/>
-<div align=left>
-
-<!-- <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?--username=jorgemontess&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
--->
-
-<img src="https://skillicons.dev/icons?i=go,github,git,java,typescript,ansible" />
-<br />
-<img src="https://skillicons.dev/icons?i=nodejs,python,kubernetes,docker,mysql,terraform" /><br>
- 
-
- 
 </div>
 
 <br/>
 
-
-
-
+<h3>🔧 Technologies I enjoy working with</h3>
 <br/>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=go,github,git,java,typescript,ansible" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,python,kubernetes,docker,mysql,terraform" />
+
+</div>
 
 
 <!--
