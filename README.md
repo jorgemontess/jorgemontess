@@ -3,12 +3,12 @@
 
 <div align="left">
  
- I am a software developer who love Backend and Machine Learning stuff, I enjoy coding and having fun making projects with friends!. 🤖
+ I am a software developer who love DevOps and Infrastructure, I value speed and automation as tools to simplify complexity, free up time, and help teams move faster with confidence...
  
 
  I’m currently looking for a **job**.
  
- I’m interested in **Golang, Typescript, Machine Learning, Docker**
+ I’m interested in **Golang, Kubernetes, Scrum, Docker, Pipelines (CI/CD)**
 
  </div>
  
